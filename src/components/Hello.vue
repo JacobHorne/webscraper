@@ -1,7 +1,7 @@
 <template>
  
   <div class="container">
-    <div class="row">
+    <div class="row" style="margin:0 auto; max-width:1000px;">
       <div class="column column-40">
         <label for="nameField">WEBSITE</label>
         <input type="text" v-model="website" placeholder="medium.com" id="nameField">
@@ -10,7 +10,7 @@
         <label for="nameField">HTML TAG</label>
         <input type="text" v-model="tag" placeholder="h1,p,li" id="nameField">
       </div>
-      <div class="column column-40 float-left" style="margin-top:2em" >
+      <div class="column column-40 float-left" style="margin-top:1.8em" >
         <button class="button-large">Scrape</button>
         <button class="button-large button-outline">Reset</button>
       </div>
@@ -56,11 +56,14 @@ li {
 a {
   color: #42b983;
 }
+input{
+  padding: 2.1rem 1.0rem;
+}
 
 .button-large {
   font-size: 1.4rem;
   height: 4.5rem;
   line-height: 4.5rem;
-  padding: 0 2rem;
+  padding: 0 4rem;
 }
 </style>
