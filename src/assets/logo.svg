@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="159px" height="73px" viewBox="0 0 159 73" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-61.6%" y="-53.6%" width="223.3%" height="226.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.855229592   0 0 0 0 0.855229592   0 0 0 0 0.855229592  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <polygon id="path-2" points="16.7368164 40.8779297 1 40.5424805 21.867367 18.3483017 22.5687058 15.9931407 23.5046884 14.3861207 32.935167 2.23064247 34.6982368 1 37.8030545 1.14633242 40.3517274 2.23130163 41.0349169 3.98860898 41.0744563 5.82765156 36.9092041 9.21966342 26.7812758 19.6112427 25.9237238 20.428595"></polygon>
+        <filter x="-17.5%" y="-12.5%" width="134.9%" height="135.1%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.760655825   0 0 0 0 0.760655825   0 0 0 0 0.760655825  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(13.000000, 12.000000)">
+            <text id="Webscrape" font-family="BungeeShade-Regular, Bungee Shade" font-size="16" font-weight="normal" fill="#007F8A">
+                <tspan x="31" y="29">Webscrape</tspan>
+            </text>
+            <polyline id="Path-3-Copy-9" stroke="#222222" opacity="0.525079257" transform="translate(74.000000, 39.500000) scale(1, -1) translate(-74.000000, -39.500000) " points="32 39 49.9898937 39 116 39"></polyline>
+            <polyline id="Path-3-Copy-8" stroke="#A1A1A1" opacity="0.525079257" transform="translate(128.000000, 39.500000) scale(1, -1) translate(-128.000000, -39.500000) " points="117 39 121.711639 39 139 39"></polyline>
+            <path d="M11.5466102,34.1 C44.289548,34.1 60.6610169,34.1 60.6610169,34.1" id="Path-3-Copy-2" stroke="#222222"></path>
+            <path d="M61.5466102,34.1 L86.5,34.1" id="Path-3-Copy-3" stroke="#222222" opacity="0.546308877"></path>
+            <path d="M87.5466102,34.1 L132.5,34.1" id="Path-3-Copy-5" stroke="#222222" opacity="0.339334239"></path>
+            <polyline id="Path-3-Copy" stroke="#222222" points="5 37 46.6342691 37 73 37"></polyline>
+            <polyline id="Path-3-Copy-6" stroke="#222222" points="6 40 21.3067166 40 31 40"></polyline>
+            <path d="M74.3813559,37.1 L104.502656,37.1" id="Path-3-Copy-4" stroke="#222222" opacity="0.423969656"></path>
+            <path d="M105.381356,37.1 L144.5,37.1" id="Path-3-Copy-7" stroke="#222222" opacity="0.423969656"></path>
+            <g id="Group" filter="url(#filter-1)">
+                <g id="Path-Copy">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use fill="#C3C1C1" fill-rule="evenodd" xlink:href="#path-2"></use>
+                </g>
+                <polygon id="Path" stroke="#CFCFCF" stroke-width="0.09" fill="#D8D8D8" points="16.4165039 41.0214844 0 40.5424805 20.867367 18.3483017 21.5687058 15.9931407 22.5046884 14.3861207 31.935167 2.23064247 33.6982368 1 36.8030545 1.14633242 39.3517274 2.23130163 40.0349169 3.98860898 40.0744563 5.82765156 35.9092041 9.21966342 25.7812758 19.6112427 24.9237238 20.428595"></polygon>
+                <path d="M22.1727274,18.6345109 L25.2514648,20.9387207 C29.7897446,18.532472 32.94272,16.5851675 34.7103911,15.0968071 C36.4780622,13.6084467 38.322397,11.6815898 40.2433956,9.31623641 C40.9886072,8.63230436 41.449775,8.09244929 41.6268991,7.6966712 C41.8040232,7.3008931 41.9715778,6.80406339 42.129563,6.20618207 L42.6571247,4.49558424 C42.8624104,3.71711 42.9110843,3.20182467 42.8031462,2.94972826 C42.6952081,2.69763185 42.2633119,2.31787641 41.5074575,1.81046196 C41.3562537,1.61540531 41.2439754,1.47447328 41.1706223,1.38766588 C40.7500755,0.889982474 40.3623816,0.548917218 40.0075406,0.364470109 C39.5598609,0.131765285 38.8988387,0.0102752491 38.0244741,0 L35.3028886,0.799252717 C34.3290585,1.28949878 33.6611951,1.71295892 33.2992983,2.06963315 C32.9374016,2.42630738 32.3250532,3.26111264 31.4622533,4.57404891 L28.0250278,8.48709239 L23.9438272,13.9137228 C23.425462,14.9171196 22.9257139,15.797894 22.4445831,16.5560462 C21.9634523,17.3141984 21.8728337,18.0070199 22.1727274,18.6345109 Z" id="Path-2-Copy" fill="#2F2F33" opacity="0.670516304"></path>
+                <path d="M21.1727274,18.6345109 L25.4174452,20.9575408 C29.1784047,18.5387454 31.94272,16.5851675 33.7103911,15.0968071 C35.4780622,13.6084467 37.322397,11.6815898 39.2433956,9.31623641 C39.9886072,8.63230436 40.449775,8.09244929 40.6268991,7.6966712 C40.8040232,7.3008931 40.9715778,6.80406339 41.129563,6.20618207 L41.6571247,4.49558424 C41.8624104,3.71711 41.9110843,3.20182467 41.8031462,2.94972826 C41.6952081,2.69763185 41.2633119,2.31787641 40.5074575,1.81046196 C40.3562537,1.61540531 40.2439754,1.47447328 40.1706223,1.38766588 C39.7500755,0.889982474 39.3623816,0.548917218 39.0075406,0.364470109 C38.5598609,0.131765285 37.8988387,0.0102752491 37.0244741,0 L34.3028886,0.799252717 C33.3290585,1.28949878 32.6611951,1.71295892 32.2992983,2.06963315 C32.0288092,2.33621884 29.9929412,3.33611574 26.6425781,7.61523438 C24.4090027,10.4679801 23.1760858,12.5674763 22.9438272,13.9137228 C22.425462,14.9171196 21.9257139,15.797894 21.4445831,16.5560462 C20.9634523,17.3141984 20.8728337,18.0070199 21.1727274,18.6345109 Z" id="Path-2" fill="#2F2F33"></path>
+                <ellipse id="Oval" stroke="#FFFFFF" fill="#737373" cx="36.505547" cy="3.91304348" rx="1.11972265" ry="1.13043478"></ellipse>
+                <ellipse id="Oval-Copy" stroke="#FFFFFF" fill="#737373" cx="25.1197227" cy="17.1304348" rx="1.11972265" ry="1.13043478"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>
